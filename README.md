@@ -1,0 +1,2 @@
+# TheFOX.exe
+Config file
