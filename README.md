@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm Nolan Lopes</h1>
+<h1 align="center">SALUT 👋, Je suis TheFOX.exe</h1>
 
 
 
-• 🔭 Je suis actuellement Support Technique chez Lite-Heberg
+• 🔭 Je suis actuellement en cours de dévellopement de ma propre crypto-monnaie
 <br/>
-• 👀 Mes plus grandes passions sont l'Administration Serveur et le Développement Web
+• 👀 Mes plus grandes passions sont le dévellopement ainsi que le drone et bien sûr l'argent x)
 <br/>
-• ✉️ Me contacter : nolan@mrnolan1030.xyz
+• ✉️ Me contacter : bastien@dronevalais-production.ch
 <br/>
-• 🚧 Actuellement entrain de monter un projet
+• 🚧 Actuellement en cours de dévellopement
 
 <h3 align="left">Mes compétences</h3>
 • HTML
 <br/>
-• PHP
+• JS
 <br/>
 • CSS
 <br/>
-• Administration serveur (Linux, Windows Server)
+• Marketing
+
+<h3 align="left">Me soutenir</h3>
+
+• ETH : 0x17D31194b62528Ffd1EE8A615dbB5bfA4100298f
 <br/>
-• Réseaux
+• FIL : f1zkdmavzyygtiw7sswlnancocm6xfgh72o323dsy
