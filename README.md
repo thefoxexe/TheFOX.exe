@@ -6,7 +6,7 @@
 <br/>
 • 👀 Mes plus grandes passions sont le dévellopement ainsi que le drone et bien sûr l'argent x)
 <br/>
-• ✉️ Me contacter : bastien@dronevalais-production.ch
+• ✉️ Me contacter : 
 <br/>
 • 🚧 Actuellement en cours de dévellopement
 
@@ -19,8 +19,3 @@
 <br/>
 • Marketing
 
-<h3 align="left">Me soutenir</h3>
-
-• ETH : 0x17D31194b62528Ffd1EE8A615dbB5bfA4100298f
-<br/>
-• FIL : f1zkdmavzyygtiw7sswlnancocm6xfgh72o323dsy
