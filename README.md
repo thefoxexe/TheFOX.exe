@@ -2,7 +2,7 @@
 
 
 
-• 🔭 Je suis actuellement en cours de dévellopement de ma propre crypto-monnaie
+• 🔭 Je suis actuellement en cours de dévellopement
 <br/>
 • 👀 Mes plus grandes passions sont le dévellopement ainsi que le drone et bien sûr l'argent x)
 <br/>
